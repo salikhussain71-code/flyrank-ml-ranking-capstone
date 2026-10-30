@@ -1,0 +1,13 @@
+query_id,query,document_id,title,snippet,relevance
+q1,student financial aid,doc1,Student Financial Aid Guide,Overview of grants and aid eligibility,1
+q1,student financial aid,doc2,Campus Dining Hours,Opening hours and meal plans,0
+q1,student financial aid,doc3,How to Apply for Financial Aid,Application steps and required documents,1
+q1,student financial aid,doc4,Student Housing Guide,Residence halls and housing applications,0
+q2,python machine learning,doc5,Machine Learning with Python,Introduction to Python ML tools and workflows,1
+q2,python machine learning,doc6,Python Language Reference,Official language syntax and standard library,0
+q2,python machine learning,doc7,Practical ML Model Evaluation,Train validation and evaluation basics,1
+q2,python machine learning,doc8,Campus News,General university announcements,0
+q3,search ranking metrics,doc9,Ranking Evaluation Metrics,Precision recall MRR and NDCG explained,1
+q3,search ranking metrics,doc10,Web Design Color Guide,Choosing accessible website colors,0
+q3,search ranking metrics,doc11,Information Retrieval Basics,How search systems retrieve and rank results,1
+q3,search ranking metrics,doc12,Office Contact Directory,Department phone numbers and email addresses,0
